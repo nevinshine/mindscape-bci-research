@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-green)
 ![Award](https://img.shields.io/badge/Award-Best_Project_2025-gold)
 
-> [cite_start]**🏆 Winner:** Mar Mathew Vattakkuzhy Award for Best Project (Mastermind 2025) [cite: 7, 12]
+> **🏆 Winner:** Mar Mathew Vattakkuzhy Award for Best Project (Mastermind 2025)
 
 ## 📜 Overview
 [cite_start]Mindscape is a Proof of Concept (PoC) demonstrating the feasibility of utilizing Electroencephalography (EEG) data to control digital systems[cite: 30]. [cite_start]By processing brain signals through an AI model, the system translates specific thought patterns (Focus, Blink) into actionable cloud triggers[cite: 31, 35].
