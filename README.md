@@ -34,7 +34,7 @@ The research validated the core logic for interpreting signals with the followin
 * **Innovation:** Recognized for applying signal processing and AI to solve accessibility challenges.
 
 ## 📄 Documentation
-* [View Proof of Concept Document (PDF)](docs/PoC_Mindscape.pdf)
+* [View Proof of Concept Document (PDF)](PoC_Mindscape.pdf)
 
 ---
 *Conceptualized by Nevin Shine. Awarded by Amal Jyothi College of Engineering.*
